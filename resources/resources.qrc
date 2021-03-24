@@ -1,0 +1,33 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>images/file_audio.ico</file>
+    <file>images/Audio Library.ico</file>
+    <file>images/detect_audio.ico</file>
+    <file>images/Audio File.ico</file>
+    <file>images/copy.png</file>
+    <file>images/db_download.ico</file>
+    <file>images/Clear.png</file>
+    <file>images/detect_green.png</file>
+    <file>images/detect_red.png</file>
+    <file>images/browse.ico</file>
+    <file>images/camera_tab.png</file>
+    <file>images/camera_video.png</file>
+    <file>images/database.ico</file>
+    <file>images/db_add.ico</file>
+    <file>images/db_save.ico</file>
+    <file>images/db_status1.ico</file>
+    <file>images/detect.png</file>
+    <file>images/driveUtils.ico</file>
+    <file>images/Folder Network Add.ico</file>
+    <file>images/history_clear.png</file>
+    <file>images/media_stop.png</file>
+    <file>images/audio_clip.png</file>
+    <file>images/ok.png</file>
+    <file>images/pause.png</file>
+    <file>images/play.png</file>
+    <file>images/play_off.png</file>
+    <file>images/play_on.png</file>
+    <file>images/show_off.png</file>
+    <file>images/show_on.png</file>
+  </qresource>
+</RCC>
